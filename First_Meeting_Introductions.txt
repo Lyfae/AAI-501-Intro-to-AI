@@ -1,0 +1,33 @@
+Team 3: Three Muskateers! 
+
+Ideas for Project Proposal: 
+
+Instructions: 
+To ensure that you choose an appropriate project, turn in a 1-2 page project proposal by the end of week 3. Use this proposal document to demonstrate that you have completed some background work on your chosen topic. The proposal should begin with a clear and unambiguous statement of your topic and include all of the following:
+
+- A brief discussion of the problem and algorithms you intend to investigate and the system you intend to build in doing so.
+- Identification of specific related course topics (e.g. heuristic search, classification, deep learning, NLP, CV, etc.).
+- Examples of expected behaviors of the system or the types of problems the algorithms you investigate are intended to handle.
+- The issues you expect to focus on.
+- A list of papers or other resources you intend to use to inform your project efforts. This list forms the core of your project report reference list.
+- Make sure that you will work very closely and communicate constantly with all of your teammates throughout the project in delivering multiple project deliverables. 
+- Click on the link above to submit your assignment. Only one group member should submit the assignment. 
+
+
+
+Suggested Datasets: 
+
+a. 
+https://www.kaggle.com/datasets/ahemateja19bec1025/covid-xray-dataset -> Covid19
+- Computer Vision
+
+b. 
+https://www.kaggle.com/datasets/georgescutelnicu/top-100-popular-movies-from-2003-to-2022-imdb -> Movies from 2003 to 2022
+- Form of Clasification (TBD)
+
+c. 
+https://www.kaggle.com/datasets/jonbown/us-2020-traffic-accidents
+- Classification ??? (TBD)
+d. 
+
+11AM - 12PM meetup. 
